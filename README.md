@@ -5,3 +5,8 @@ Lauren Kunz e Silva.
 RA: 23118770-2. 
 7S-B. 
 
+Assuntos. 
+
+Trabalho 1 - Modelos Probabilísticos. 
+Trabalho 2 - Knn e Árvore de Decisão. 
+Atividades. 
